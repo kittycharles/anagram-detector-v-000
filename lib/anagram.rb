@@ -17,7 +17,7 @@ class Anagram
   #   end
   #   result
   # end
-  # 
+  #
   # def sort_letters(word)
   #   word.chars.sort.join
   # end
