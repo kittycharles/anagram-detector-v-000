@@ -18,8 +18,8 @@ class Anagram
     result
   end
 
-  # def sort_letters(word)
-  #   word.chars.sort.join
-  # end
+  def sort_letters(word)
+    word.chars.sort.join
+  end
 
 end
